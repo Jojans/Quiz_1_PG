@@ -1,6 +1,7 @@
 .container{
     border: black 1px solid;
     text-align: center;
+    padding-bottom: 25px;
 }
 
 #title_pag1{
@@ -11,3 +12,34 @@
 .table-bordered{
     border: black 1px solid;
 }
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+  }
+
+input[type="text"] {
+    width: 250px;
+    box-sizing: border-box;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+form{
+    padding-top: 25px;
+    border: black 1px solid;
+    padding-bottom: 25px;
+}
+
+input[type="submit"] {
+    background-color: green;
+    color: white;
+    Border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+
