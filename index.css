@@ -1,5 +1,13 @@
 .container{
     border: black 1px solid;
-    padding-right: 100px;
     text-align: center;
+}
+
+#title_pag1{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.table-bordered{
+    border: black 1px solid;
 }
